@@ -1,0 +1,12 @@
+[package]
+name = "oledview"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+embedded-graphics = "0.7.1"
+embedded-graphics-simulator = "0.4.1"
+gdb-protocol = "0.1.0"
+hex = "0.4.3"
